@@ -15,3 +15,4 @@ with a web interface and settings memory.
 3. Connect to the `SmartThermostatAP` network to set up Wi-Fi.
 
 ![Schema](Schematic_wifi_temperature_controller.png)
+![Schema](wifi_temperature_bb.png)
